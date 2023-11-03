@@ -1,7 +1,7 @@
 #Pig Game
 
 This game is simply dice game.
-Where you can play the game : https://ecagataydogan.github.io/Dice-Game/
+Where you can play the game : https://ecagataydogan.github.io/pig-game/
 
 Rules :
 
