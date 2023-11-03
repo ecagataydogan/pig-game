@@ -76,7 +76,7 @@ btnHold.addEventListener("click", function () {
         currentScore;
       activePlayer = 0;
     }
-    if (score0 >= 50 || score1 >= 50) {
+    if (score0 >= 40 || score1 >= 40) {
       const winner = score0 > score1 ? 0 : 1;
       document.querySelector(`.player--${winner}`).classList.add("name");
       document
